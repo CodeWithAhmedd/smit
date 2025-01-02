@@ -1,0 +1,25 @@
+*{
+margin: 0%;
+padding: 0%;
+font-family: sans-serif;
+}
+footer{
+    width:100% ;
+    height: 400px;
+    background-color: rgb(56, 56, 56);
+    
+}
+.footer-heading img{
+    width: 350px;
+   position: relative;
+   top: 50px;
+ 
+}
+.footer-list1{
+color: white;
+line-height: 50px;
+position: absolute;
+left: 35%;
+bottom: 140px;
+}
+
